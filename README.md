@@ -3,7 +3,7 @@
 
 I’m a Full Stack Engineer with 6+ years of experience building scalable web and mobile applications using technologies like React, React Native, TypeScript, and Node.js. I’m passionate about delivering seamless user experiences, and I love working on both frontend and backend systems. 
 
-When I am not building engaging mobild & web experiences at [Gopuff](https://gopuff.com); you can find me tinkering with new technologies like **Astro** to build my portfolio site or my personal project - [SubBuddy](https://mysubbuddy.vercel.com)
+When I am not building engaging mobild & web experiences at [Gopuff](https://gopuff.com); you can find me tinkering with new technologies like **Astro** to build my portfolio site or my personal project - [SubScrbd](https://mysubbuddy.vercel.com)
 
 I’m always open to new opportunities to collaborate on innovative projects, mentor developers, or share my knowledge. Feel free to reach out to me via [LinkedIn](https://linkedin.com/in/mugambilynn) or [Email Me](lynnlmugambi@gmail.com). Let's create something great together!
 
